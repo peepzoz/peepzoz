@@ -7,7 +7,7 @@ he/she only | 15y | genderqueer
 <br>
 50 / 50 over c + h
 <br>
-tenna & seam in real life (true)
+follow = follow back
 <br>
 <br>   
 <img src="https://files.catbox.moe/0mlk8q.png" width="210" height="210" border="10"/>     
