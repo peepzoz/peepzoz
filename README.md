@@ -10,7 +10,7 @@ he/she only | 15y | genderqueer
 follow = follow back
 <br>
 <br>   
-<img src="https://64.media.tumblr.com/d48d9c5df1337b85595a4391ed7f9ffc/ccbef67770b3130e-60/s400x600/3840b31a30c26d598aa0c4fea487e567e67ff0c0.gif" width="210" height="210" border="10"/>     
+<img src="https://64.media.tumblr.com/d48d9c5df1337b85595a4391ed7f9ffc/ccbef67770b3130e-60/s400x600/3840b31a30c26d598aa0c4fea487e567e67ff0c0.gif" width="400" height="210" border="10"/>     
 </p>
 
 <!--
