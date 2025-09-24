@@ -5,7 +5,9 @@ my name is peep i like stuff
 <br>
 he/she only | 15y | genderqueer
 <br>
-50 / 50 over c + h
+idm c + h but please be cautious
+<br>
+currently dr/ut and great mouse detective pilled
 <br>
 follow = follow back
 <br>
