@@ -3,7 +3,7 @@
 <p align="center">  
 my name is peep i like stuff
 <br>
-he/she only | 15y | genderqueer
+he/she only | 16y | genderqueer
 <br>
 idm c + h but please be cautious
 <br>
