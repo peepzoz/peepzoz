@@ -11,8 +11,6 @@ currently dr/ut and great mouse detective pilled
 <br>
 follow = follow back
 <br>
-[ata book](https://peepzoz.atabook.org) | [guns.lol](https://guns.lol/peepzoz) | [wip straw](https://iloveworkinprogresses.straw.page)
-<br>
 <br>   
 <img src="https://64.media.tumblr.com/9fca80aad9223c42dd94e692d063e47e/ffb36584bc39c09e-22/s100x200/eef6b2dbd98c1e1c8bf5fb2ff6abb5cc5972baa9.gifv" width="200" height="200" border="10"/>     
 </p>
