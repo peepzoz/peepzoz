@@ -12,7 +12,7 @@ he/she only | 16y | genderqueer
 <br>
 idm c + h but please be cautious
 <br>
-currently great mouse detective and adventime pilled
+currently great mouse detective and spy vs spy pilled
 <br>
 for the love of god please follow me on ur mains </3
 <br>
