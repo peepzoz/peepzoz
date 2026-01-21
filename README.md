@@ -1,6 +1,6 @@
 <br>   
 <p align="center">
-  <img width="600" height="600" src="https://files.catbox.moe/bkqqrw.png">
+  <img width="600" height="600" src="https://files.catbox.moe/mognc3.png">
 </p>
 </p>
 <p align="center">
