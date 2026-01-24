@@ -16,3 +16,5 @@ currently great mouse detective and spy vs spy pilled
 <br>
 for the love of god please follow me on ur mains </3
 <br>
+  <p align="center">
+<a href="[https://revospring.net/@peepzoz]" target="_blank">revospring</a> | <a href="[https://mynamespeep.carrd.co]" target="_blank">identifiers</a> | <a href="[https://rentry.co/lTHINKTHEREFORElAM]" target="_blank">rentry</a>
