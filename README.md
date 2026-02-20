@@ -14,5 +14,5 @@ idm c + h but please be cautious
 <br>
 currently great mouse detective madness combat & spy vs spy pilled
 <br>
-for the love of god please follow me on ur mains </3
+dont follow spam follow accs. only mains
 <br>
