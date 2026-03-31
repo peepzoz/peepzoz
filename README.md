@@ -14,5 +14,7 @@ idm c + h but please be cautious
 <br>
 currently great mouse detective madness combat & spy vs spy pilled
 <br>
+if i dont respond to whispers its because im offtab (sorry)
+<br>
 dont follow spam follow accs. only mains
 <br>
