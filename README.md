@@ -16,5 +16,5 @@ currently great mouse detective madness combat & spy vs spy pilled
 <br>
 if i dont respond to whispers its because im offtab (sorry)
 <br>
-dont follow spam follow accs. only mains
+wont follow back unless u folloow on ur main (im petty like that
 <br>
