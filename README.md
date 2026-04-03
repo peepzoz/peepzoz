@@ -14,7 +14,9 @@ he/she only, he pref
 <br>
 my current interests r electric dreams, ihnmaims, antonblast, the great mouse detective, madness combat, spy vs spy, and dr/ut  
 <br>
-im usually offtab but i regularly check forr whispers  
+usually at docks or near bakery. if with someone, they are a friend
+<br>
+im usually offtab but i regularly check for whispers  
 <br>
 c+h is fine but please be cautious  
 <br>
