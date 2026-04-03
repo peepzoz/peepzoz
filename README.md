@@ -171,7 +171,6 @@ wont follow back if u follow on an alt (im petty lol)
 
 <img width="206" height="120" src="https://64.media.tumblr.com/b24cd233cc6c86a9e20467ce377de108/7396faf599efbead-c3/s640x960/9f057025dea36b00d50693d1f78020ceb6de40cb.pnj">
 <img width="206" height="120" src="https://64.media.tumblr.com/fb3cff00cc937b13388904f20963ff1a/0c0f211aabe3910b-7a/s540x810/d0ea2bf3d706e8bd8036a372946707e3d2b2c20c.pnj">
-<img width="206" height="120" src="https://64.media.tumblr.com/81c4624ae4138002d0750f61a0659d61/86313312791bbf4a-7c/s2048x3072/794a480e90b696dbc70b3d17e4eb49a410781af2.pnj">
 
 <img width="206" height="120" src="https://64.media.tumblr.com/a72abf7674389f6823cc4825f31aa8b0/66d35e3a6f696104-f4/s500x750/b95c9e9d2945df647e7d7ab873d2b2522f9f9950.pnj">
 <img width="206" height="120" src="https://64.media.tumblr.com/613759be0a28d717dbce410cde98a82b/793b718e938b197e-4e/s500x750/1705efa7e7e91cb375698431b419279c28f40c52.pnj">
