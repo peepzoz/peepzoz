@@ -6,21 +6,21 @@
 <p align="center">
 code is a wip so im writing this here for general info  
 <br>
-i go by peep miles or basil  
+$\color{#403428}{\textsf{i go by peep miles or basil}}$
 <br>
-he/she only, he pref  
+$\color{#45392b}{\textsf{he/she only, he pref}}$ 
 <br>
-16 yr old transman who has nothing better to do  
+$\color{#574636}{\textsf{16 yr old transman who has nothing better to do}}$
 <br>
-my current interests r electric dreams, ihnmaims, antonblast, the great mouse detective, madness combat, spy vs spy, and dr/ut  
+$\color{#634a3e}{\textsf{my current interests r electric dreams, ihnmaims, antonblast, the great mouse detective, madness combat, spy vs spy, and dr/ut}}$  
 <br>
-usually at docks or near bakery. if with someone, they are a friend
+$\color{#735549}{\textsf{usually at docks or near bakery. if with someone, they are a friend}}$
 <br>
-im usually offtab but i regularly check for whispers  
+$\color{#8a665e}{\textsf{im usually offtab but i regularly check for whispers}}$  
 <br>
-c+h is fine but please be cautious  
+$\color{#99716a}{\textsf{c+h is fine but please be cautious}}$  
 <br>
-wont follow back if u follow on an alt (im petty lol)
+$\color{#a87b76}{\textsf{wont follow back if u follow on an alt (im petty lol)}}$
 
 
 
