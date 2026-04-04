@@ -161,7 +161,6 @@ $\color{#a87b76}{\textsf{wont follow back if u follow on an alt (im petty lol)}}
 <img width="103" height="60" src="https://64.media.tumblr.com/ccdd38c6ac6e9c748ffb313f696d10fa/5659af75dd5f4d18-cf/s100x200/1d84319f8ed88f95f78eb2a6f278ea3bb024cb11.gifv">
 <img width="103" height="60" src="https://64.media.tumblr.com/763f8375ce9268671d3265f0d13636b1/acf30207513d4a6d-51/s100x200/1477c28871b0457494968011900335822f854620.pnj">
 <img width="103" height="60" src="https://64.media.tumblr.com/5abaab7efd82cbdc0c882c7ff7ab9894/bec942ee0bb79661-d6/s100x200/200dab0b59d808e5933e30e9c14ce137ef81318e.gifv">
-<img width="103" height="60" src="https://64.media.tumblr.com/5abaab7efd82cbdc0c882c7ff7ab9894/bec942ee0bb79661-d6/s100x200/200dab0b59d808e5933e30e9c14ce137ef81318e.gifv">
 
 <br>
 <img width="103" height="60" src="https://64.media.tumblr.com/5b4606b31b127a7536e8bf67240ac015/19db86fa4bb7c5fd-e0/s250x400/572d7662551e6447160dd9d20db6261a35b47fd0.gifv">
