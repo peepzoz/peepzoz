@@ -38,6 +38,7 @@ $\color{#a87b76}{\textsf{wont follow back if u follow on an alt (im petty lol)}}
 <img alt="Static Badge" src="https://img.shields.io/badge/i_%E2%99%A1_computers-ffffff?style=plastic&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/N%2C_O._And_my_name's_not_Moles.-ffffff?style=plastic&color=ada887">
 <img alt="Static Badge" src="https://img.shields.io/badge/tweet-tweet!-%233c92ba?style=plastic&labelColor=%23ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/spy_v.-s._spy-%23000000?style=flat&labelColor=%23ffffff">
 
 <br>
 
