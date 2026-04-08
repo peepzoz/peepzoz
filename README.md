@@ -33,6 +33,37 @@ $\color{#adadb5}{\textsf{wont follow back if u follow on an alt (im petty lol)}}
 <p align="center">
 
 <details align="center">
+  <summary><b>dni/byi</b></summary>
+
+  <p align="center"> 
+  
+  do not interact <img src="https://files.catbox.moe/mijg23.png" align="right">
+  </tr>
+</table>
+      
+    ⬩ "basic dni criteria"
+    ⬩ under fourteen or over twenty
+    ⬩ israel/russia supporters
+    ⬩ crypto/ai supporters
+    ⬩ pro/darkshippers
+    ⬩ you claim to be problematic or controversial in any way
+  </p>
+
+  <p align="center">
+    
+  <img src="https://files.catbox.moe/a0leam.png" align="left"> before you interact
+  </tr>
+</table>
+      
+    ⬩ i can get clingy and hyper extremely quickly.
+    ⬩ i am very sensitive and overthink things often, especially with jokes targetted towards me
+    ⬩ tone tags are appreciated, but not needed
+    ⬩ i say slurs that I can reclaim, as well as sexual and rude jokes. let me know asap to stop
+    ⬩ even though I am happy to help friends in situations or problems, i am not your therapist
+    ⬩ do not be harsh or rude when criticizing me. destructive criticism will result in a block or distancing
+    
+</details>
+<details align="center">
 <summary><b>extra content (stamps, blinkies, userboxes, etc.)</b></summary>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/i_%E2%99%A1_computers-ffffff?style=plastic&color=blue">
@@ -260,4 +291,4 @@ $\color{#adadb5}{\textsf{wont follow back if u follow on an alt (im petty lol)}}
 <img width="206" height="120" src="https://64.media.tumblr.com/613759be0a28d717dbce410cde98a82b/793b718e938b197e-4e/s500x750/1705efa7e7e91cb375698431b419279c28f40c52.pnj">
 <img width="206" height="120" src="https://64.media.tumblr.com/d8d36d4ca59cd2aa47fff18277ee9806/845690919a28d61c-20/s640x960/24f567b5b06f6568bbc7dcd14d281ed27171fe14.pnj">
 
-
+</details>
