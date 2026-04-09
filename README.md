@@ -1,6 +1,6 @@
 <br>   
 <p align="center">
-  <h3 align="center"><i>"Here's another installment of that friendly rivalry between the man in blakc and the man in white, both dedicated to the "cause" . . . of outwiting each other as—"</i></h3>
+  <h3 align="center"><i>"Here's another installment of that friendly rivalry between the man in black and the man in white, both dedicated to the "cause" . . . of outwitting each other as—"</i></h3>
 <br>
   <p align="center">
   <img width="400" height="400" src="https://files.catbox.moe/p4ow5x.gif">
