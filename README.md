@@ -1,5 +1,8 @@
 <br>   
 <p align="center">
+  <h3 align="center"><i>"Here's another installment of that friendly rivalry between the man in blakc and the man in white, both dedicated to the "cause" . . . of outwiting each other as—"</i></h3>
+<br>
+  <p align="center">
   <img width="400" height="400" src="https://files.catbox.moe/p4ow5x.gif">
 </p>
 </p>
@@ -61,6 +64,7 @@ $\color{#adadb5}{\textsf{wont follow back if u follow on an alt (im petty lol)}}
     ⬩ i say slurs that I can reclaim, as well as sexual and rude jokes. let me know asap to stop
     ⬩ even though I am happy to help friends in situations or problems, i am not your therapist
     ⬩ do not be harsh or rude when criticizing me. destructive criticism will result in a block or distancing
+    ⬩ i am a yumeshipper, but i have zero issue with any doubles. the same goes for my identifiers
     
 </details>
 <details align="center">
