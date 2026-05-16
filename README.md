@@ -16,7 +16,8 @@ $\color{#adadb5}{\textsf{And my mouth went dry, but everyone is going to have to
 <p align="center">
 <a href="https://peepzoz.atabook.org">ata</a> <a href="https://backloggd.com/u/peepzoz/">backloggd</a> <a href="https://peepzoz.carrd.co">carrd</a> <a href="https://guns.lol/peepzoz">gunslol</a> <a href="https://pronouns.cc/@peepzoz">pronounscc</a>
 <a href="https://peepzoz.atabook.org">ata</a> <a href="https://backloggd.com/u/peepzoz/">backloggd</a> <a href="https://peepzoz.carrd.co">carrd</a> <a href="https://guns.lol/peepzoz">gunslol</a> <a href="https://pronouns.cc/@peepzoz">pronounscc</a>
-<a href="https://www.youtube.com/@peepzoz">youtube</a> <a href="https://www.youtube.com/@peepzoz">youtube</a>
+  <br>
+<a href="https://www.youtube.com/@peepzoz">youtube</a> <a href="https://x.com/peepzoz">twitter</a> <a href="https://steamcommunity.com/id/peepzoz">steam</a>
 
 <br>
 </p>
