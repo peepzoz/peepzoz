@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://www.tumblr.com/saturns-apple/776907352039407616/a-simple-wish"><img width="2048" height="805" src="https://files.catbox.moe/215ej0.png"></a>
+  <img src="https://static.wikia.nocookie.net/yumenikki/images/a/a0/Poniko%27s_room.PNG/revision/latest?cb=20161104145048"></a>
 </p>
 <p align="center">
 </p>
