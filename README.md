@@ -8,6 +8,7 @@ $\color{#adadb5}{\textsf{You looked her in the eye, and I watched her cry}}$
 <br>
 $\color{#adadb5}{\textsf{And my mouth went dry, but everyone is going to have to die sometime}}$ 
 <br>
+$\color{#adadb5}{\textsf{(disclaimer: all signs and submissions are played via character. do not expect the truth of mine to come out, and only of the stickman himself.)}}$ 
 </p>
 </details>
 <details align="center">
