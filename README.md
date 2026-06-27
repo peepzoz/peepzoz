@@ -10,7 +10,7 @@ $\color{#adadb5}{\textsf{And my mouth went dry, but everyone is going to have to
 <br>
 $\color{#adadb5}{\textsf{(disclaimer: all signs and submissions are played via character. do not expect the truth of mine to come out, and only of the stickman himself.)}}$ 
 <a href="https://kantoku.neocities.org/"> 
-  <img src="https://kantoku.neocities.org/kantoku.gif">
+  <img src="https://kantoku.neocities.org/button.gif">
 </p>
 </details>
 <details align="center">
