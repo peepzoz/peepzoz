@@ -66,7 +66,7 @@
       </p>
       <p>
         <p align="center">
-          I have a boyfriend who I love and adore very much. Check out his works pinned in my stamps section! I spend most of my time on Pony Town with close friends. I'm open to meeting new people, but please don't ask to be friends immediately.
+          I have a boyfriend who I love and adore very much. Check out his works pinned in my stamps section! I spend most of my time on Pony Town with close friends. I'm open to meeting new people, but please don't ask to be friends immediately. I don't have a "DNI," just don't be a weirdo and we'll get along fine.
       </p>
       <p>
         <p align="center">
