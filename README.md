@@ -114,7 +114,6 @@
       <img src="https://64.media.tumblr.com/1e04350e02f3c94a2162764ff692cfdd/86408c0474108007-34/s100x200/ac9eb0ff8e9fd8dcc5398d29466994c570b390f2.pnj" width="100" height="55">
       <img src="https://64.media.tumblr.com/693bcc554a1e77d64ecb4ab1bef0f3e6/382e7f15eab99436-0d/s250x400/5d21949e7db8d2563457620ecf8b12ae201a6ea3.pnj" width="100" height="55">
       <img src="https://64.media.tumblr.com/feb502c0f81ca2a407aacbf405f1630d/d83a7de606c7f5f9-8a/s100x200/38c4a68fda455958540b0ccb43b5eba9a1716ff2.pnj" width="100" height="55">
-      <img src="https://64.media.tumblr.com/feb502c0f81ca2a407aacbf405f1630d/d83a7de606c7f5f9-8a/s100x200/38c4a68fda455958540b0ccb43b5eba9a1716ff2.pnj" width="100" height="55">
         <br>
       <img src="https://64.media.tumblr.com/ae6f5b291202443b8ed1ae1da2032a46/cd01fd9b8afcf6e7-8a/s250x400/da8b24e5a574ee25d681d975cc6b88a7c7c092da.webp" width="200" height="25">
       <img src="https://64.media.tumblr.com/38bbe3f2b8fadded1693e0701009135f/82f062ad64b65975-a3/s500x750/a6c2cef4cec055843bda2051697536176b698e09.gifv" width="200" height="25">
@@ -127,14 +126,13 @@
       <img src="https://64.media.tumblr.com/c60045a3870eb4928707ba7d2b8052d7/4cc1bf3591c35e10-e5/s100x200/c35308f8078f6eef4b0f2fc198d75d0bec4b2692.pnj" width="88" height="31">
       <img src="https://64.media.tumblr.com/94829d4e41c5c8fb05058e4abf85b6cc/82808d33b4b4d95e-88/s100x200/b09d9c7972a4bf25defee8de6d679921865b0a40.gifv" width="88" height="31">
       <img src="https://64.media.tumblr.com/811c68fa0ea1676b5c1d2f848213dba9/49ed25cfa4f375ad-09/s100x200/155a4d7773278d3faa1a38757b2f553afc71c7cc.gifv" width="88" height="31">
-      <img src="https://64.media.tumblr.com/811c68fa0ea1676b5c1d2f848213dba9/49ed25cfa4f375ad-09/s100x200/155a4d7773278d3faa1a38757b2f553afc71c7cc.gifv" width="88" height="31">
-     <img src="https://cyber.dabamos.de/88x31/nofuckingthanks.gif" width="88" height="31">
-     <img src="https://cyber.dabamos.de/88x31/hasmile.gif" width="88" height="31">
-     <img src="https://cyber.dabamos.de/88x31/brolove.gif" width="88" height="31">
-        <br>
-yume niiki      <img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv" width="88" height="31">
-      <img src="https://64.media.tumblr.com/c2ac26e5e30c9fcad47ebd6432c52181/c430859a446d7fb8-62/s100x200/c93fa93bcfde214828e52cc75237d1bee4950a46.gifv" width="88" height="31">
-deltarune      <img src="https://cyber.dabamos.de/88x31/ezgif2.gif" width="88" height="31">
-utaite      <img src="https://cyber.dabamos.de/88x31/mafumafu.gif" width="88" height="31">
-chiikawa      <img src="https://64.media.tumblr.com/f19267ee0c367a001566b21f29701cc8/01810c298b9b7eda-13/s100x200/2198820fd39124c203adcc44c3fe48f488fd9e63.gifv" width="88" height="31">
+      <img src="https://cyber.dabamos.de/88x31/nofuckingthanks.gif" width="88" height="31">
+      <img src="https://cyber.dabamos.de/88x31/hasmile.gif" width="88" height="31">
+      <img src="https://cyber.dabamos.de/88x31/brolove.gif" width="88" height="31">
+      <img src="https://graphic.neocities.org/button_31.gif" width="88" height="31">
+      <img src="https://graphic.neocities.org/button_42.gif" width="88" height="31">
+      <img src="https://64.media.tumblr.com/3fa1b520eb4c25ba8bb8cb3096f471c3/d6ec1a73cb60a443-98/s100x200/a4a3e9fd5869702ec22d5beeac32b17b975d1164.gifv" width="88" height="31">
+      <img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv" width="88" height="31">
+      <img src="https://cyber.dabamos.de/88x31/mafumafu.gif" width="88" height="31">
+      <br>
       </p>
