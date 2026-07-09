@@ -124,8 +124,17 @@
       <img src="https://64.media.tumblr.com/9037ba1fe1a2f14d44ed737d91a5dae5/06f078481b23cb22-31/s100x200/469dcb66df1db8ca8636cee81ce5663e18bf2d9c.gifv" width="88" height="31">
       <img src="https://64.media.tumblr.com/ca593ec227a7ad37a0379176f98d375b/421f629cb5164425-e1/s100x200/7d3d91e1c8bdcc768cca9b7210ef2d1f9b64c010.gifv" width="88" height="31">
       <img src="https://64.media.tumblr.com/d7fc74d225c549e28fa72ad4ce611307/1cd4606ec467018e-8b/s100x200/ccb3ff5a6e2be5738737b5c292a323f832e4a17f.gifv" width="88" height="31">   
+      <img src="https://64.media.tumblr.com/c60045a3870eb4928707ba7d2b8052d7/4cc1bf3591c35e10-e5/s100x200/c35308f8078f6eef4b0f2fc198d75d0bec4b2692.pnj" width="88" height="31">
+      <img src="https://64.media.tumblr.com/94829d4e41c5c8fb05058e4abf85b6cc/82808d33b4b4d95e-88/s100x200/b09d9c7972a4bf25defee8de6d679921865b0a40.gifv" width="88" height="31">
+      <img src="https://64.media.tumblr.com/811c68fa0ea1676b5c1d2f848213dba9/49ed25cfa4f375ad-09/s100x200/155a4d7773278d3faa1a38757b2f553afc71c7cc.gifv" width="88" height="31">
+      <img src="https://64.media.tumblr.com/811c68fa0ea1676b5c1d2f848213dba9/49ed25cfa4f375ad-09/s100x200/155a4d7773278d3faa1a38757b2f553afc71c7cc.gifv" width="88" height="31">
+     <img src="https://cyber.dabamos.de/88x31/nofuckingthanks.gif" width="88" height="31">
+     <img src="https://cyber.dabamos.de/88x31/hasmile.gif" width="88" height="31">
+     <img src="https://cyber.dabamos.de/88x31/brolove.gif" width="88" height="31">
         <br>
-      <img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv" width="88" height="31">
+yume niiki      <img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv" width="88" height="31">
       <img src="https://64.media.tumblr.com/c2ac26e5e30c9fcad47ebd6432c52181/c430859a446d7fb8-62/s100x200/c93fa93bcfde214828e52cc75237d1bee4950a46.gifv" width="88" height="31">
-      <img src="https://64.media.tumblr.com/f19267ee0c367a001566b21f29701cc8/01810c298b9b7eda-13/s100x200/2198820fd39124c203adcc44c3fe48f488fd9e63.gifv" width="88" height="31">
+deltarune      <img src="https://cyber.dabamos.de/88x31/ezgif2.gif" width="88" height="31">
+utaite      <img src="https://cyber.dabamos.de/88x31/mafumafu.gif" width="88" height="31">
+chiikawa      <img src="https://64.media.tumblr.com/f19267ee0c367a001566b21f29701cc8/01810c298b9b7eda-13/s100x200/2198820fd39124c203adcc44c3fe48f488fd9e63.gifv" width="88" height="31">
       </p>
