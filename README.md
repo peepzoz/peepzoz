@@ -58,7 +58,7 @@
       </p>
       <p>
         <p align="center">
-          I enjoy writing characters, researching my interests (computer viruses, dead malls, etc.), doodling, composing music, and playing piano. My favorite food is Fettuccine Alfredo (with Rigatoni) and my favorite drink is Sprite (Lemon Lime).
+          I enjoy writing characters, researching my interests (computer viruses, dead malls, etc.), doodling, composing music, and playing piano. My favorite food is Fettuccine Alfredo (with Rigatoni) and my favorite drink is Sprite (Lemon Lime). I'm close to 5'8 and I'm starting to grow a mustache.
       </p>
       <p>
         <p align="center">
@@ -70,7 +70,7 @@
       </p>
       <p>
         <p align="center">
-          Feel free to ask questions about me or my character... sona... I honestly don't know what Zoz anymore. If you'd like to ask me somewhere else outside of the guestbook, my email (zozpeep@gmail.com) is always available!
+          Feel free to ask questions about me or my character... sona... I honestly don't know what Zoz is anymore. If you'd like to ask somewhere else outside of the guestbook, my email (zozpeep@gmail.com) is always available!
       </p>
       <p>
         <p align="center">
