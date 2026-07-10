@@ -130,7 +130,6 @@ interests
       <img src="https://64.media.tumblr.com/5d1dfac0e3351ed85a304620f78d7209/a7440cfc44ce9c6e-96/s100x200/45db35dbf26cc4a1346b235f1ec885e66c4e1504.webp" width="100" height="55">
       <img src="https://64.media.tumblr.com/9b44aa94aec0e04dbe9afcd2dfd11c6f/16fd4d4ee5d6ac43-8b/s100x200/646d91cd1b9c6051d6d9657ac344ae6eb9d83ff3.pnj" width="100" height="55">
       <img src="https://64.media.tumblr.com/23f8eddbe197d5beccfe6dc8b94ec3f9/4d5d96e1cc7edf06-17/s100x200/7f77fcf160ce0cfe81c28fe48ec82a4172f03a97.gifv" width="100" height="55">
-      <img src="https://64.media.tumblr.com/23f8eddbe197d5beccfe6dc8b94ec3f9/4d5d96e1cc7edf06-17/s100x200/7f77fcf160ce0cfe81c28fe48ec82a4172f03a97.gifv" width="100" height="55">
       <img src="https://64.media.tumblr.com/20378dd3e7e7dc97de82594a31a75988/22f12c80d6958c3d-e9/s100x200/4bf8899ccb80b3a12389f8b8148c50e20a97d0b9.gifv" width="100" height="55">
       <img src="https://64.media.tumblr.com/610f44e77ff03611f47b42dd662eaa6c/3168906063b5945e-be/s250x400/acdd513f22ba23be40072e5c1c3cfe0c591b6d8a.gifv" width="100" height="55">
       <img src="https://64.media.tumblr.com/9d145bc8e46bd7a895f160f0234cb877/9633d249c3364072-66/s100x200/53f609f02188032429d75708c4d455558aacce60.gifv" width="100" height="55">
