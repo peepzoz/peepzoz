@@ -195,5 +195,15 @@
       <img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv" width="88" height="31">
       <img src="https://cyber.dabamos.de/88x31/mafumafu.gif" width="88" height="31">
       <img src="https://64.media.tumblr.com/f5c95306b9c15cbbfa092d4767e3a576/a61f8261ff9c0cfd-00/s100x200/0cb3e786837795c8eac2824e67c9610fec3b1c54.gifv" width="88" height="31">
-      <br>
+      </p>
+      <p>
+        <p align="center">
+          <A href="https://www.theotaku.com/quizzes/view/4097/what_dere_type_are_you%3F"><img border="0" src="http://www.theotaku.com/guru_results/4097_Tsundere.jpg" width="250" height="150" alt="What Dere Type Are You?"/><br</a>
+          <A href="https://www.theotaku.com/quizzes/view/4070/which_touhou_protagonist_are_you_mostly_like%3F"><img border="0" src="http://www.theotaku.com/guru_results/4070_Reimu_Hakurei.jpg" width="250" height="150" alt="Which Touhou Protagonist Are You Mostly Like?"/><br</a>
+          <A href="https://www.theotaku.com/quizzes/view/4126/which_madoka_magica_girl_r_u_%3F"><img border="0" src="http://www.theotaku.com/guru_results/4126_pre_magi_homura_akemi.jpg" width="250" height="150" alt="which madoka magica girl r u ?"/><br</a>
+          <A href="https://www.theotaku.com/quizzes/view/2570/what_neon_genesis_evangelion_character_are_you%3F"><img border="0" src="http://www.theotaku.com/guru_results/2570_Rei.jpg" width="250" height="150" alt="What Neon Genesis Evangelion Character Are You?"/><br</a>
+          <A href="https://theotaku.com/quizzes/view/4031/which_undertale_soul_are_you%3F"><img border="0" src="http://www.theotaku.com/guru_results/4031_Determination.jpg" width="250" height="150" alt="Which Undertale Soul Are You?"/><br</a>
+          <a href="http://www.springhole.net" target="SH.net"><img src="http://i213.photobucket.com/albums/cc224/SyeraMiktayee/QuizPics/GhostQuizResults/grumpyghost.gif"></a>
+          <a href='https://clownfred.zone/clownquiz'><img src='https://clownfred.zone/!Media/CQ/PierrotCard1.png' alt='I 	am a Pierrot Mime! Click here to take the clown quiz!'></a>
+          <a href="http://www.nerdtests.com/ft_loser.php?im"><img src="http://www.nerdtests.com/images/ft/lsr.php?val=0758" alt="I am 98% loser. What about you? Click here to find out!"></a>
       </p>
