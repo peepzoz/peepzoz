@@ -96,8 +96,8 @@
     <summary><b>Stamps & Graphics</b></summary>
       <p>
         <p align="center">
-    <a href="https://kantoku.neocities.org/"> 
-    <img src="https://kantoku.neocities.org/button.gif">
+    <a href="https://naizo.neocities.org/"> 
+    <img src="https://naizo.neocities.org/assets/button.png">
     <a href="https://yokubo.neocities.org/"> 
     <img src="https://yokubo.neocities.org/btn.png">
       </p>
