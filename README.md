@@ -17,3 +17,7 @@
 <p>
   <p align="center"> 
     <a href="https://seikyu.neocities.org/"><img src="https://seikyu.neocities.org/assets/buttons/button.gif">
+    <a href="https://ynoproject.net/"><img src="https://64.media.tumblr.com/a421e6b0ba1b94ec6363628e31531a5d/c430859a446d7fb8-17/s100x200/e911ae27a47489db32670289fd2ef662d53a276d.gifv">
+    <a href="https://thenicestplace.net/"><img src="https://64.media.tumblr.com/acf6f2f47f62450669d3bbaf504e77dc/0d7ebb762ec38c68-45/s100x200/f34e769832794a2fe7dd88b658f7ba7d2cf5f94f.gifv">
+    <a href="https://www.naps.edu.au/blog/artificial-intelligence-ai-the-bad"><img src="https://64.media.tumblr.com/9eb2554406551584b5959356e3aa2666/75fd9c94bba3153b-ff/s100x200/75ce084f61ebbb0ab43338bbc4932cbe219fe329.gifv">
+    <a href="https://archive.org/"><img src="https://64.media.tumblr.com/4b3ecc7e1b988bcf18a8fba26880951e/fa04d3a9e5d45f15-d2/s100x200/54c9ba54dbd776820d4fe9201c3571f0897f5ba2.pnj">
