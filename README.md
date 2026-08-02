@@ -14,3 +14,6 @@
 </p>
 
 ---
+<p>
+  <p align="center"> 
+    <a href="https://seikyu.neocities.org/"><img src="https://seikyu.neocities.org/assets/buttons/button.gif">
