@@ -6,7 +6,7 @@
 <p align="center">
 <p align="center">$\color{#d4cec9}{\textsf{𝐒𝐨𝐦𝐞𝐨𝐧𝐞 𝐰𝐡𝐨 𝐞𝐚𝐭𝐬 𝐩𝐚𝐧𝐜𝐚𝐤𝐞𝐬 𝐚𝐧𝐝 𝐣𝐚𝐦 𝐜𝐚𝐧'𝐭 𝐛𝐞 𝐬𝐨 𝐚𝐰𝐟𝐮𝐥𝐥𝐲 𝐝𝐚𝐧𝐠𝐞𝐫𝐨𝐮𝐬. 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐭𝐚𝐥𝐤 𝐭𝐨 𝐡𝐢𝐦.}}$
 <p align="center">$\color{#d4cec9}{\textsf{𝚙𝚎𝚎𝚙　﹙　ₒᵣ　𝚋𝚊𝚜𝚒𝚕　﹚}}$
-<p align="center">$\color{#d4cec9}{\textsf{𝚑𝚎 / 𝚑𝚒𝚖　𝟷𝟼𝚢𝚘　𝚖𝚊𝚕𝚎　|　𝚒𝚗𝚝𝚙　𝟺𝚠𝟹　𝚕𝚊𝚠𝚏𝚞𝚕　𝚐𝚘𝚘𝚍}}$
+<p align="center">$\color{#d4cec9}{\textsf{𝚑𝚎 / 𝚑𝚒𝚖　𝟷𝟽𝚢𝚘　𝚖𝚊𝚕𝚎　|　𝚒𝚗𝚏𝚙　𝟺𝚠𝟹　𝚗𝚎𝚞𝚝𝚛𝚊𝚕　𝚐𝚘𝚘𝚍}}$
 <p align="center">$\color{#d4cec9}{\textsf{𝚠𝚛𝚒𝚝𝚎𝚛　+　𝚙𝚒𝚊𝚗𝚒𝚜𝚝　|　𝚖𝚘𝚘𝚖𝚒𝚗　𝚖𝚊𝚍𝚗𝚎𝚜𝚜𝚌𝚘𝚖𝚋𝚊𝚝　𝚢𝚞𝚖𝚎𝚗𝚒𝚔𝚔𝚒　𝚜𝚙𝚊𝚌𝚎𝚏𝚞𝚗𝚎𝚛𝚊𝚕}}$
 <p align="center"><a href="https://github.com/pt-hall-of-media/">𝚑𝚊𝚕𝚕-𝚘𝚏-𝚖𝚎𝚍𝚒𝚊</a>　<a href="https://github.com/pt-walk-of-fame">𝚠𝚊𝚕𝚔-𝚘𝚏-𝚏𝚊𝚖𝚎</a>　<a href="https://github.com/ponytowncosplayers">𝚙𝚘𝚗𝚢𝚝𝚘𝚠𝚗𝚌𝚘𝚜𝚙𝚕𝚊𝚢𝚎𝚛𝚜</a>
 <p align="center">$\color{#d4cec9}{\textsf{・　・　・　・　・}}$
